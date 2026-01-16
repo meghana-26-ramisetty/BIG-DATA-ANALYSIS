@@ -28,3 +28,6 @@ Visualization was another important part of the analysis. Charts such as bar gra
 
 In conclusion, this big data analysis task was successfully performed using Microsoft Excel with the help of Google for guidance and learning. Excel was used for data collection, cleaning, transformation, analysis, and visualization. The project demonstrated how large datasets can be processed and analyzed efficiently even without advanced big data tools. It provided valuable experience in handling real-world data, deriving insights, and understanding the fundamentals of big data analysis. This approach fulfills the internship requirement by showing practical data processing skills and analytical thinking.
 
+"OUT PUT OF PIC":
+
+<img width="765" height="415" alt="Image" src="https://github.com/user-attachments/assets/33887c1d-8242-4195-8108-f7ad7c38d681" />
